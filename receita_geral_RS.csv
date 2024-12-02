@@ -1,0 +1,122 @@
+;NR_ELEICAO;SG_PARTIDO;VR_RECEITA;DS_TP_ESPECIE_RECURSO
+0;1;AGIR;4576,98;Depósito em espécie
+1;1;AVANTE;2047,5;Depósito em espécie
+2;1;CIDADANIA;863272,63;Transferência eletrônica
+3;1;DC;171285,62;Depósito em espécie
+4;1;DEM;1368301,19;Depósito em espécie
+5;1;MDB;13714132,17;Transferência eletrônica
+6;1;MOBILIZA;12836,01;Transferência eletrônica
+7;1;NOVO;1235089,26;Transferência eletrônica
+8;1;PATRIOTA;10770,0;Depósito em espécie
+9;1;PC do B;2707260,11;Depósito em espécie
+10;1;PCB;57634,3;Depósito em espécie
+11;1;PDT;4825535,73;Depósito em espécie
+12;1;PHS;6019,62;Transferência eletrônica
+13;1;PL;53467,6;Depósito em espécie
+14;1;PODE;1400,0;Estimado
+15;1;PP;8217903,46;Transferência eletrônica
+16;1;PPL;85824,81;Depósito em espécie
+17;1;PROS;202368,6;Aviso de Crédito
+18;1;PRP;9137,380000000001;Estimado
+19;1;PSB;4368488,31;Transferência eletrônica
+20;1;PSC;424398,79;Estimado
+21;1;PSD;3539029,3000000003;Aviso de Crédito
+22;1;PSDB;3847892,39;Transferência eletrônica
+23;1;PSL;219364,17;Depósito em espécie
+24;1;PSOL;1750960,45;Depósito em espécie
+25;1;PSTU;149310,76;Transferência eletrônica
+26;1;PT;8264817,67;Transferência eletrônica
+27;1;PTB;5975450,74;Transferência eletrônica
+28;1;PV;963216,39;Depósito em espécie
+29;1;REDE;219645,74;Transferência eletrônica
+30;1;REPUBLICANOS;2909720,08;Depósito em espécie
+31;1;SDD;465074,55;Depósito em espécie
+32;2;AGIR;9483,94;Transferência eletrônica
+33;2;AVANTE;21103,42;Transferência eletrônica
+34;2;CIDADANIA;1809668,0999999999;Transferência eletrônica
+35;2;DC;223844,38;Transferência eletrônica
+36;2;DEM;2741100,18;Transferência eletrônica
+37;2;MDB;18479012,740000002;Transferência eletrônica
+38;2;MOBILIZA;2400,0;Estimado
+39;2;NOVO;1544931,56;Transferência eletrônica
+40;2;PATRIOTA;100844,91;Depósito em espécie
+41;2;PC do B;3073802,3000000003;Transferência eletrônica
+42;2;PCB;19930,78;Depósito em cheque
+43;2;PDT;5826556,35;Transferência eletrônica
+44;2;PHS;2845,44;Transferência eletrônica
+45;2;PL;2268783,32;Transferência eletrônica
+46;2;PODE;1239957,74;Transferência eletrônica
+47;2;PP;20497904,21;Transferência eletrônica
+48;2;PROS;217949,8;Aviso de Crédito
+49;2;PRP;1625,0;Estimado
+50;2;PRTB;248512,61000000002;Transferência eletrônica
+51;2;PSB;11931494,79;Transferência eletrônica
+52;2;PSC;207569,69;Transferência eletrônica
+53;2;PSD;5496113,33;Transferência eletrônica
+54;2;PSDB;9093412,7;Transferência eletrônica
+55;2;PSL;7524175,98;Transferência eletrônica
+56;2;PSOL;4957889,2;Transferência eletrônica
+57;2;PSTU;79506,0;Transferência eletrônica
+58;2;PT;10238352,8;Transferência eletrônica
+59;2;PTB;12811732,62;Transferência eletrônica
+60;2;PV;1051475,33;Transferência eletrônica
+61;2;REDE;250875,6;Depósito em espécie
+62;2;REPUBLICANOS;3059050,43;Depósito em espécie
+63;2;SDD;1802441,84;Transferência eletrônica
+64;2;UP;40006,14;Transferência eletrônica
+65;3;AVANTE;376414,69;Transferência eletrônica
+66;3;CIDADANIA;1970818,32;Transferência eletrônica
+67;3;DC;366220,68;Transferência eletrônica
+68;3;DEM;869845,28;Transferência eletrônica
+69;3;MDB;9481530,75;Transferência eletrônica
+70;3;NOVO;1026890,6799999999;Estimado
+71;3;PATRIOTA;84928,0;Transferência eletrônica
+72;3;PC do B;2308411,7399999998;Transferência eletrônica
+73;3;PCB;32997,62;Transferência eletrônica
+74;3;PDT;12845132,08;Transferência eletrônica
+75;3;PL;8817418,88;Transferência eletrônica
+76;3;PODE;12722803,4;Transferência eletrônica
+77;3;PP;9954329,34;Transferência eletrônica
+78;3;PROS;566944,8;Transferência eletrônica
+79;3;PRTB;261990,17;Transferência eletrônica
+80;3;PSB;9182887,190000001;Transferência eletrônica
+81;3;PSC;1526054,96;Transferência eletrônica
+82;3;PSD;6869916,15;Transferência eletrônica
+83;3;PSDB;14826576,72;Transferência eletrônica
+84;3;PSL;1951214,72;Transferência eletrônica
+85;3;PSOL;7736543,15;Transferência eletrônica
+86;3;PSTU;92250,5;Transferência eletrônica
+87;3;PT;8145701,01;Transferência eletrônica
+88;3;PTB;10466121,75;Transferência eletrônica
+89;3;PV;1000062,5;Transferência eletrônica
+90;3;REDE;5567,679999999999;Aviso de Crédito
+91;3;REPUBLICANOS;6329871,6;Transferência eletrônica
+92;3;SDD;1323682,19;Transferência eletrônica
+93;3;UNIÃO;6695551,88;Transferência eletrônica
+94;3;UP;151538,27;Transferência eletrônica
+95;4;AVANTE;60466,61;Transferência eletrônica
+96;4;CIDADANIA;326079,95;Transferência eletrônica
+97;4;MDB;5826406,89;Transferência eletrônica
+98;4;NOVO;651326,49;Transferência eletrônica
+99;4;PATRIOTA;3270,0;Transferência eletrônica
+100;4;PC do B;358644,39;Transferência eletrônica
+101;4;PDT;2366469,6;Transferência eletrônica
+102;4;PL;5046704,39;Transferência eletrônica
+103;4;PODE;5136569,6899999995;Transferência eletrônica
+104;4;PP;5748388,97;Transferência eletrônica
+105;4;PRD;342195,04;Transferência eletrônica
+106;4;PRTB;11000,0;Transferência eletrônica
+107;4;PSB;8665117,120000001;Transferência eletrônica
+108;4;PSC;6,0;
+109;4;PSD;2344619,69;Transferência eletrônica
+110;4;PSDB;3664439,01;Transferência eletrônica
+111;4;PSOL;4787722,02;Transferência eletrônica
+112;4;PSTU;47399,88;Transferência eletrônica
+113;4;PT;3923556,17;Transferência eletrônica
+114;4;PTB;252881,4;Transferência eletrônica
+115;4;PV;45715,24;Transferência eletrônica
+116;4;REDE;495158,01;Transferência eletrônica
+117;4;REPUBLICANOS;3259988,42;Transferência eletrônica
+118;4;SDD;171106,31;Transferência eletrônica
+119;4;UNIÃO;1358476,86;Transferência eletrônica
+120;4;UP;164831,58000000002;Transferência eletrônica
